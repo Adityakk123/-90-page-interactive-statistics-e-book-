@@ -1,3 +1,3 @@
-# 90-page-interactive-statistics-e-book-
+# interactive-statistics-ebook
 • Executed statistical modeling, literature synthesis, and experimental design for a behavioral learning study involving 200+ participants. • Designed and evaluated a 90-page interactive statistics e-book using Quarto, demonstrating a 40% improvement in learning retention through pre–post assessment analysis. 
 https://drive.google.com/file/d/1CpsNuRUolZHU2Et9q7zcUOWCjudRnPyC/view?usp=drivesdk
